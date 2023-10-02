@@ -5,6 +5,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 ## Setup
 
 Node Version: `v20.8.0`
+
 Make sure to install the dependencies:
 
 ```bash
